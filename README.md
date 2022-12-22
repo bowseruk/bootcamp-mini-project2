@@ -1,4 +1,3 @@
-A CSS Cheatsheet made from scratch in HTML and CSS
 # Bootcamp Mini Project 2 - CSS Cheatsheet
 
 ## Description 
@@ -25,7 +24,7 @@ The site does not require installation steps.
 
 ## Usage 
 
-The website can be viewed at [https://bowseruk.github.io/bootcamp-mini-project2/](https://bowseruk.github.io/bootcamp-mini-project2/) with Google Chrome. The source can be viewed in Chrome by right clicking and selecting inspect.
+The website can be viewed at [https://bowseruk.github.io/css-cheatsheet/](https://bowseruk.github.io/css-cheatsheet/) with Google Chrome. The source can be viewed in Chrome by right clicking and selecting inspect.
 
 ![Screenshot of the Webpage](assets/images/screenshot.png)
 
